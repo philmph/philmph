@@ -11,13 +11,14 @@ I am Philipp - I automate stuff.
 
 ## 🔭 I’m currently working on
 
-- [CloudSkills.io Python 10 Week Course](https://cloudskills.io/courses/python)
+- My PowerShell logging module [Log-istic](https://github.com/philmph/Log-istic)
+- Learning unit and integration testing best practices (based on [Pester](https://github.com/pester/Pester))
 
 ## 🌱 My learning To-Do list
 
 - [ ] [Udemy - Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 - [ ] [Udemy - Linux Mastery: Master the Linux Command Line](https://www.udemy.com/course/linux-mastery/)
-- [ ] [Book - The DevOps Handbook](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/)
+- [ ] [CloudSkills.io Python 10 Week Course](https://cloudskills.io/courses/python)
 
 ## 📖 What I've learned in the past
 
