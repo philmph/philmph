@@ -11,12 +11,15 @@ I am Philipp - I automate stuff.
 
 ## 🔭 I’m currently working on
 
-- Learning unit and integration testing best practices (based on [Pester](https://github.com/pester/Pester))
+- Learning Unit and Integration testing best practices (based on [Pester](https://github.com/pester/Pester))
+- Building my highly automated PowerShell sample modules [Builder](https://github.com/philmph/Builder)
+- Transfering the sample PowerShell module [Builder](https://github.com/philmph/Builder) to my scaffolding project [Frame](https://github.com/philmph/Frame)
 
 ## 🌱 My learning To-Do list
 
-- [ ] [Udemy - Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
-- [ ] [CloudSkills.io Python 10 Week Course](https://cloudskills.io/courses/python)
+- [ ] [The Pester Book](https://leanpub.com/pesterbook)
+- [ ] *[Udemy - Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)*
+- [ ] *[CloudSkills.io Python 10 Week Course](https://cloudskills.io/courses/python)*
 
 ## 📖 What I've learned in the past
 
@@ -36,7 +39,7 @@ I am Philipp - I automate stuff.
 
 ## 📫 How to reach me
 
-- Here on GitHub
+- [GitHub](https://github.com/philmph)
 - [LinkedIn](https://www.linkedin.com/in/philipp-maier-801b54138)
 - [Stack Overflow](https://stackoverflow.com/users/14100666/philmph)
 - [Twitter](https://twitter.com/philmph)
