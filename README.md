@@ -1,6 +1,6 @@
 # 👹 About me
 
-My name is Philipp. I work as a DevOps / Cloud Consultant in Austria, Vienna.
+My name is Philipp. I work as a Cloud and DevOps Consultant in Austria, Vienna.
 
 ## 👍 What i like
 
@@ -10,14 +10,13 @@ My name is Philipp. I work as a DevOps / Cloud Consultant in Austria, Vienna.
 
 ## 🔭 I’m currently working on
 
-- Setting up and running a Cloud-native DevOps environment with
-  - AWS
-  - Terraform
-  - Kubernetes
-  - GitLab-CI
+- Learning and using my Python skills
 
 ## 🌱 My learning To-Do list
 
+- [ ] Python using (see Repositories)
+  - [ ] [Advent of Code 2022](https://adventofcode.com/)
+  - [ ] [Daily Coding Problem](https://www.dailycodingproblem.com/)
 - [ ] Learning for [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [ ] Learning for [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
 
