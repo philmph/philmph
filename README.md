@@ -1,24 +1,22 @@
 # 👹 About me
 
-My name is Philipp. I work as a Cloud and DevOps Consultant in Austria, Vienna.
+My name is Philipp. I work as a Cloud Engineer in Austria, Vienna.
 
 ## 👍 What i like
 
 - Automation
+- Cloud(s)
 - Coding
 - Software with dark mode
 
 ## 🔭 I’m currently working on
 
-- Learning and using my Python skills
+- Nothing but reading books I enjoy
 
 ## 🌱 My learning To-Do list
 
-- [ ] Python using (see Repositories)
-  - [ ] [Advent of Code 2022](https://adventofcode.com/)
-  - [ ] [Daily Coding Problem](https://www.dailycodingproblem.com/)
-- [ ] Learning for [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-- [ ] Learning for [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+- Python
+- Kubernetes (CKA)
 
 ## 📖 What I've learned in the past
 
