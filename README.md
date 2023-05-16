@@ -15,8 +15,7 @@ My name is Philipp. I work as a Cloud Engineer in Austria, Vienna.
 
 ## 🌱 My learning To-Do list
 
-- Python
-- Kubernetes (CKA)
+- [HashiCorp Certified: Terraform Associate (003](https://www.hashicorp.com/certification/terraform-associate)Terraform 
 
 ## 📖 What I've learned in the past
 
