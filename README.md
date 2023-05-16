@@ -15,7 +15,7 @@ My name is Philipp. I work as a Cloud Engineer in Austria, Vienna.
 
 ## 🌱 My learning To-Do list
 
-- [HashiCorp Certified: Terraform Associate (003](https://www.hashicorp.com/certification/terraform-associate)Terraform 
+- [HashiCorp Certified: Terraform Associate (003)](https://www.hashicorp.com/certification/terraform-associate)
 
 ## 📖 What I've learned in the past
 
