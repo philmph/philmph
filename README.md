@@ -9,10 +9,10 @@ My name is Philipp. I work as a Cloud Engineer in Austria, Vienna.
 - Coding
 - Software with dark mode
 
-## 🌱🔭 I’m currently spending time with / learning / working on
+## 🌱🔭 I’m currently spending time with
 
 - My dog
-- Learning GO in my free time
+- Learning GO
 
 ## 📕 What I'm currently reading
 
