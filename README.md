@@ -9,19 +9,22 @@ My name is Philipp. I work as a Cloud Engineer in Austria, Vienna.
 - Coding
 - Software with dark mode
 
-## 🔭 I’m currently working on
+## 🌱🔭 I’m currently spending time with / learning / working on
 
-- Nothing but reading books I enjoy
+- My dog
+- Learning GO in my free time
 
-## 🌱 My learning To-Do list
+## 📕 What I'm currently reading
 
-- [HashiCorp Certified: Terraform Associate (003)](https://www.hashicorp.com/certification/terraform-associate)
+- [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
+- [Think like a monk](https://www.amazon.de/Think-Like-Monk-Train-Purpose/dp/0008355568)
 
 ## 📖 What I've learned in the past
 
 <details>
 <summary>Expand</summary>
 
+- [x] []
 - [x] [09/22 - Book - The DevOps Handbook](https://itrevolution.com/the-devops-handbook/)
 - [x] [09/22 - Certification - AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 - [x] [01/22 - Book - Terraform: Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
