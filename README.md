@@ -18,6 +18,7 @@ My name is Philipp. I work as a Cloud Engineer in Austria, Vienna.
 
 - [Terraform in Depth](https://www.manning.com/books/terraform-in-depth)
 - [Think like a monk](https://www.amazon.de/Think-Like-Monk-Train-Purpose/dp/0008355568)
+- [Let's Go](https://lets-go.alexedwards.net/)
 
 ## 📖 What I've learned in the past
 
