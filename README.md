@@ -6,15 +6,15 @@ I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.c
 
 ## 🔭 What I'm Working On
 
-- 🧠 Preparing for the **Certified Kubernetes Administrator (CKA)** exam
-- 📝 Building my personal [blog](https://pmaier.at) using **[Hugo](https://gohugo.io/)**, **[Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod)**, **[GitHub Pages](https://pages.github.com/)** and **[Cloudflare](https://www.cloudflare.com/)**
+- 🧠 Preparing for the Certified Kubernetes Administrator (CKA) exam
+- 📝 Building my personal [blog](https://pmaier.at) using [Hugo](https://gohugo.io/), [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod), [GitHub Pages](https://pages.github.com/) and [Cloudflare](https://www.cloudflare.com/)
 
 ---
 
 ## 📚 Currently Reading
 
-- [**The Kubernetes Book**](https://www.nigelpoulton.com/books) by _Nigel Poulton_
-- [**Code: The Hidden Language of Computer Hardware and Software**](https://codehiddenlanguage.com/Chapter00/) by _Charles Petzold_
+- [The Kubernetes Book](https://www.nigelpoulton.com/books) by _Nigel Poulton_
+- [Code: The Hidden Language of Computer Hardware and Software](https://codehiddenlanguage.com/Chapter00/) by _Charles Petzold_
 
 ---
 
