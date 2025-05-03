@@ -7,7 +7,7 @@ I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.c
 ## 🔭 What I'm Working On
 
 - 🧠 Preparing for the **Certified Kubernetes Administrator (CKA)** exam
-- 📝 Building my personal [blog](https://pmaier.at) using **[HUGO](https://gohugo.io/)**, **[GitHub Pages](https://pages.github.com/)** and **[Cloudflare](https://www.cloudflare.com/)**
+- 📝 Building my personal [blog](https://pmaier.at) using **[Hugo](https://gohugo.io/)**, **[Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod)**, **[GitHub Pages](https://pages.github.com/)** and **[Cloudflare](https://www.cloudflare.com/)**
 
 ---
 
