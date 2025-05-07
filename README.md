@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Philipp
 
-I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.com), living in [Vienna, Austria](https://earth.google.com/web/@48.2206849,16.38005995,161.2107876a,61954.52617226d,35y,0h,0t,0r/data=CkkaRxJBCiUweDQ3NmQwNzllNTEzNmNhOWY6MHhmZGMyZTU4YTUxYTI1YjQ2GRAvmXSlGkhAIW8gbpiyXzBAKgZWaWVubmEYAiAB).
+I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.com), based in [Vienna, Austria](https://earth.google.com/web/@48.2206849,16.38005995,161.2107876a,61954.52617226d,35y,0h,0t,0r/data=CkkaRxJBCiUweDQ3NmQwNzllNTEzNmNhOWY6MHhmZGMyZTU4YTUxYTI1YjQ2GRAvmXSlGkhAIW8gbpiyXzBAKgZWaWVubmEYAiAB).
+
+My personal [blog](https://pmaier.at/) is still a bit empty and a work in progress - but feel free to check it out while I'm building things up.
 
 ---
 
 ## 🔭 What I'm Working On
 
-- 🧠 Preparing for the [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) exam
-- 📝 Building my personal [blog](https://pmaier.at/) using [Hugo](https://gohugo.io/), [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/), [GitHub Pages](https://pages.github.com/) and [Cloudflare](https://www.cloudflare.com/)
+- [ ] 🧠 Preparing for the [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) exam
+- [x] 📝 Building my personal [blog](https://pmaier.at/) using [Hugo](https://gohugo.io/), [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/), [GitHub Pages](https://pages.github.com/) and [Cloudflare](https://www.cloudflare.com/)
 
 ---
 
@@ -20,6 +22,7 @@ I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.c
 
 ## 🌐 Connect With Me
 
+- [Blog](https://pmaier.at/)
 - [GitHub](https://github.com/philmph)
 - [LinkedIn](https://www.linkedin.com/in/philipp-maier-801b54138)
 - [XING](https://www.xing.com/profile/Philipp_Maier63/cv)
