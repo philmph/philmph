@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philipp
 
-I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.com), based in [Vienna, Austria](https://earth.google.com/web/@48.2206849,16.38005995,161.2107876a,61954.52617226d,35y,0h,0t,0r/data=CkkaRxJBCiUweDQ3NmQwNzllNTEzNmNhOWY6MHhmZGMyZTU4YTUxYTI1YjQ2GRAvmXSlGkhAIW8gbpiyXzBAKgZWaWVubmEYAiAB).
+I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.com), based in [Vienna, Austria](https://en.wikipedia.org/wiki/Vienna).
 
 My personal [blog](https://pmaier.at/) is still a bit empty and a work in progress - but feel free to check it out while I'm building things up.
 
