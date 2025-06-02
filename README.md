@@ -2,7 +2,7 @@
 
 I'm a Cloud Engineer working at [Porsche Informatik](https://porscheinformatik.com), based in [Vienna, Austria](https://en.wikipedia.org/wiki/Vienna).
 
-My personal [blog](https://pmaier.at/) is still a bit empty and a work in progress - but feel free to check it out while I'm building things up.
+My personal [blog](https://pmaier.at/) is now up and running -> 🆒. Feel free to give me feedback!
 
 ---
 
