@@ -8,6 +8,7 @@ My personal [blog](https://pmaier.at/) is now up and running -> 🆒. Feel free 
 
 ## 🔭 What I'm Working On
 
+- [ ] 🧑‍💻 Working my way through [Let's Go](https://lets-go.alexedwards.net/) by _Alex Edwards_
 - [ ] 🧠 Preparing for the [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) exam
 - [x] 📝 Building my personal [blog](https://pmaier.at/) using [Hugo](https://gohugo.io/), [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/), [GitHub Pages](https://pages.github.com/) and [Cloudflare](https://www.cloudflare.com/)
 
