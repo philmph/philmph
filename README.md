@@ -1,6 +1,6 @@
 # Hi, I'm Philipp
 
-I'm a Cloud / DevOps Engineer working at [Dynatrace](https://dynatrace.com), based in [Vienna, Austria](https://en.wikipedia.org/wiki/Vienna).
+I'm a Cloud / DevOps Engineer working at [Dynatrace](https://www.dynatrace.com), based in [Vienna, Austria](https://en.wikipedia.org/wiki/Vienna).
 
 You can find my thoughts on the nerd stuff you find here in [my Blog](https://pmaier.at).
 
